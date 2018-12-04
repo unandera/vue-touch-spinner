@@ -1,8 +1,8 @@
-import VueTouchSpinner from './dist/VueTouchSpinner.vue';
+import TouchSpinner from './dist/VueTouchSpinner.vue';
 
 const VueTouchSpinner {
   install(Vue, options) {
-    Vue.component(VueTouchSpinner.name, VueTouchSpinner)
+    Vue.component(TouchSpinner.name, TouchSpinner)
   }
 };
 
