@@ -23,7 +23,7 @@
 
 <script>
 export default {
-  name: 'VueTouchSpinner',
+  name: 'TouchSpinner',
   data: function() {
     return {
       numericValue: this.value,

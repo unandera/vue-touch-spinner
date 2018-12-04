@@ -1,6 +1,6 @@
 {
   "name": "vue-touch-spinner",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "A Vue number spinner component that only allows the user to type in numbers",
   "author":  {
     "name": "unandera",
