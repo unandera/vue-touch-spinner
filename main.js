@@ -1,4 +1,4 @@
-import TouchSpinner from './src/VueTouchSpinner.vue';
+import TouchSpinner from './dist/VueTouchSpinner.vue';
 
 export default {
   install(Vue, options) {
