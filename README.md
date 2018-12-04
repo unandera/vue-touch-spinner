@@ -1,19 +1,16 @@
 # vue-touch-spinner
 A customizable number input spinner component for Vuejs
 
-## Demo
-[https://unandera.github.io/vue-number-input-spinner/](https://unandera.github.io/vue-touch-spinner/)
-
 ## Installation
 
 * Install the package via NPM:
 
-* `npm install vue-touch-spinner`
+* `npm install vue-touch-spinner --save`
 
 * Load it in your project:
 
 ```javascript
-import TouchSpinner from 'vue-touch-spinner'
+import TouchSpinner from 'vue-touch-spinner\dist\VueTouchSpinner'
 
 export default {
   components: {
