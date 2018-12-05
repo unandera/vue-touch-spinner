@@ -32,7 +32,7 @@ config.plugins = (config.plugins || []).concat([
   new HtmlWebpackPlugin({
     title: 'BookUp',
     filename: 'index.html',
-    template: path.resolve(__dirname, '../example/index.html'),
+    template: path.resolve(__dirname, '../src/index.html'),
   }),
 
   new webpack.optimize.OccurrenceOrderPlugin(),

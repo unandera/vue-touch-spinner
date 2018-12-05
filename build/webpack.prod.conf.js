@@ -6,9 +6,9 @@ const path = require('path')
 
 config.output.filename = 'vue-touch-spinner.min.js'
 config.output.libraryTarget = 'umd'
-config.output.library = 'VueTouchSpinner'
+config.output.library = 'TouchSpinner'
 
-config.entry = path.resolve(__dirname, '../src/VueTouchSpinner.vue')
+config.entry = path.resolve(__dirname, '../src/components/TouchSpinner.vue')
 
 config.devtool = '#source-map'
 
