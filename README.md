@@ -10,7 +10,7 @@ A customizable number input spinner component for Vuejs
 * Load it in your project:
 
 ```javascript
-import TouchSpinner from 'vue-touch-spinner\dist\VueTouchSpinner'
+import TouchSpinner from 'vue-touch-spinner'
 
 export default {
   components: {

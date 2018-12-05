@@ -11,7 +11,6 @@
         @keypress='validateInput'
         @input='inputValue'
         :class='inputClass'
-        debounce='500'
     />
     <button
         @click='increaseNumber'
@@ -178,7 +177,7 @@ export default {
   &__button {
     -webkit-appearance: none;
     transition: background 0.5s ease;
-    background: #387e90;
+    background: #aeaeae;
     border: 0;
     color: #fff;
     cursor: pointer;
