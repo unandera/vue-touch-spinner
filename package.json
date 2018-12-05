@@ -1,6 +1,6 @@
 {
   "name": "vue-touch-spinner",
-  "version": "1.0.11",
+  "version": "1.0.13",
   "description": "A Vue number spinner component that only allows the user to type in numbers",
   "author":  {
     "name": "unandera",
@@ -8,10 +8,6 @@
   },
   "license": "MIT",
   "main": "./src/index.js",
-  "files": [
-    "src",
-    "build"
-  ],
   "scripts": {
     "dev": "webpack-dev-server --inline --hot --open --config build/webpack.dev.conf.js",
     "build": "rimraf dist && webpack --progress --hide-modules --config build/webpack.prod.conf.js",
